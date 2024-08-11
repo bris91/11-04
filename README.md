@@ -49,4 +49,4 @@ $ rabbitmqctl cluster_status
 
 $ rabbitmqadmin get queue='hello'
 
-![alt text]https://github.com/bris91/11-04/blob/b37167e0f8a33676d127968dd70a0fbcec2c1ea9/T_3.4.png
+![alt text](https://github.com/bris91/11-04/blob/b37167e0f8a33676d127968dd70a0fbcec2c1ea9/T_3.4.png)
